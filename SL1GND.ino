@@ -1,3 +1,5 @@
+//YEEEE BOIII
+
 #include <SoftwareSerial.h>
 SoftwareSerial HC12(11, 12); // HC-12 TX Pin, HC-12 RX Pin
 
